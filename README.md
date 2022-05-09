@@ -8,6 +8,7 @@ The purpose of this analysis was to predict which charities were considered succ
 ![image](https://user-images.githubusercontent.com/93338132/167333607-c7d4d517-bd0f-4e7a-a3ce-2dc8140add3b.png)
 
 Unique values for each
+
 ![image](https://user-images.githubusercontent.com/93338132/167333875-45060ca4-3fc0-41b3-aa6e-f8db8d1adc0a.png)
 
 
